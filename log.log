@@ -1,0 +1,137 @@
+2016-06-22 10:45:49,225 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 10:45:49,231 ERROR l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@76f2b07d, logging.FractionNumberImpl@704a52ec]
+2016-06-22 10:45:49,231 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@6ee52dcd'
+2016-06-22 10:45:49,231 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 10:45:49,231 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4493d195'
+2016-06-22 10:45:49,234 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 10:45:49,234 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 10:45:49,234 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 10:45:49,235 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 10:45:49,235 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,235 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:45:49,236 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:45:49,237 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,428 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 10:47:22,437 TRACE l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@76f2b07d, logging.FractionNumberImpl@704a52ec]
+2016-06-22 10:47:22,438 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@6ee52dcd'
+2016-06-22 10:47:22,438 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 10:47:22,438 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4493d195'
+2016-06-22 10:47:22,438 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 10:47:22,438 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 10:47:22,439 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 10:47:22,439 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 10:47:22,443 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,444 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:47:22,446 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:47:22,447 ERROR l.LoggedArrayCollection [main] Unsuccessful try to set null array
+2016-06-22 10:50:26,613 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 10:50:26,631 TRACE l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@76f2b07d, logging.FractionNumberImpl@704a52ec]
+2016-06-22 10:50:26,631 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@6ee52dcd'
+2016-06-22 10:50:26,632 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 10:50:26,632 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4493d195'
+2016-06-22 10:50:26,632 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 10:50:26,632 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 10:50:26,632 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 10:50:26,633 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 10:50:26,640 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,640 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,642 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,642 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,642 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 10:50:26,643 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 10:50:26,644 ERROR l.LoggedArrayCollection [main] Unsuccessful try to set null array
+2016-06-22 13:51:33,120 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 13:51:33,126 TRACE l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@6ee52dcd, logging.FractionNumberImpl@4493d195]
+2016-06-22 13:51:33,126 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 13:51:33,127 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 13:51:33,128 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 13:51:33,128 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4232c52b'
+2016-06-22 13:51:33,128 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 13:51:33,128 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@1877ab81'
+2016-06-22 13:51:33,129 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 13:51:33,136 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,136 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,136 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,136 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:51:33,137 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:51:33,138 ERROR l.LoggedArrayCollection [main] Unsuccessful try to set null array
+2016-06-22 13:53:47,156 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 13:53:47,160 TRACE l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@6ee52dcd, logging.FractionNumberImpl@4493d195]
+2016-06-22 13:53:47,160 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 13:53:47,160 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 13:53:47,161 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 13:53:47,161 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4232c52b'
+2016-06-22 13:53:47,161 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 13:53:47,161 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@1877ab81'
+2016-06-22 13:53:47,162 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,165 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:47,166 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:47,167 ERROR l.LoggedArrayCollection [main] Unsuccessful try to set null array
+2016-06-22 13:53:54,604 TRACE l.LoggedArrayCollection [main] Collection has been created with size 5
+2016-06-22 13:53:54,614 TRACE l.LoggedArrayCollection [main] New array has been set to collection: [logging.FractionNumberImpl@6ee52dcd, logging.FractionNumberImpl@4493d195]
+2016-06-22 13:53:54,615 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@2781e022'
+2016-06-22 13:53:54,615 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 4
+2016-06-22 13:53:54,615 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@57e1b0c'
+2016-06-22 13:53:54,615 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@4232c52b'
+2016-06-22 13:53:54,615 TRACE l.LoggedArrayCollection [main] Capacity has been changed to 8
+2016-06-22 13:53:54,616 TRACE l.LoggedArrayCollection [main] Method add(T value) has been executed with param 'logging.FractionNumberImpl@1877ab81'
+2016-06-22 13:53:54,616 TRACE l.LoggedArrayCollection [main] New iterator has been created
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,624 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.next() has been executed successfully
+2016-06-22 13:53:54,625 TRACE l.LoggedArrayCollection [main] Method IndexArrayIterator.hasNext() has been executed
+2016-06-22 13:53:54,625 ERROR l.LoggedArrayCollection [main] Unsuccessful try to set null array
